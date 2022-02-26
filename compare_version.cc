@@ -15,18 +15,10 @@ vector<int> getNumArr(string str){
  	if(num || arr.empty()) arr.push_back(num);
     return arr;
 }
-
-void display(vector<int> arr){
-	for(int &i : arr) cout << i << " ";
-	cout << "\n";
-}
   
 int compareVersion(string version1, string version2) {
 	vector<int> arr1 = getNumArr(version1);
-    vector<int> arr2 = getNumArr(version2);
-	
-	display(arr1);
-	display(arr2);
+    	vector<int> arr2 = getNumArr(version2);
 	
 	int n = arr1.size(), m = arr2.size();
 	int max_len = max(n,m);

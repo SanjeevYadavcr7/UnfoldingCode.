@@ -3,16 +3,20 @@ using namespace std;
 #define M 1000000007
 
 int countOrders(int n){
-    int res = 1;
-    for(int i=1; i<=n; i++){
-        res *= i;
-        res %= M;
-        res *= (2*i-1);
-        res %= M;
+    long pick_up = 1, delivery = 1, ans = 1;
+    
+    for(int i=1; i<=n ;i++){
+        pick_up = (pick_up*i)%M;
     }
-    return res;
+    
+    for(int i=1; i<=n ;i++){
+        delivery = (delivery*(2*i-1))%M;
+    }
+    
+    ans = (pick_up*delivery)%M;
+    return ans;
 }
-
+    
 //  int ans = 0;
     
 //     void solve(string str, unordered_map<char,bool>& isPresent, string psf){

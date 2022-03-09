@@ -25,4 +25,4 @@ $ ./filename
 ```
 <br/>
 If you like my work then please star this repository and subscribe to our youtube channel. 
-Connect to me: https://www.linkedin.com/in/veejnas7/
+<br/>Connect to me: https://www.linkedin.com/in/veejnas7/

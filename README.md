@@ -9,7 +9,7 @@ Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
   <p><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="25px" margin-right="30px" margin-top="250px" >
   <a href="https://www.youtube.com/channel/UCyglJZno21QmytNG0V6DSnQ/featured">Unfolding Code Youtube.</a><br/><br/></p>
 <p align="center">
-<img src="https://github.com/SanjeevYadavcr7/UnfoldingCode./blob/main/Group%2048.jpg" width="100%" height="240px">
+<img src="https://github.com/SanjeevYadavcr7/UnfoldingCode./blob/main/Group%2048.jpg" width="100%">
 
 ## <h3> Coding Questions are from - </h3>
 - [x] LeetCode <br/>

@@ -20,7 +20,6 @@ Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" w
 $ g++ -o filename filename.cc
 $ ./filename
 ```
-
-If you like my work then please subscribe to Unfolding Code and hit the bell icon to sail with me. 
-
+<br/>
+If you like my work then please star this repository and subscribe to our youtube channel. 
 Connect to me: https://www.linkedin.com/in/veejnas7/

@@ -24,6 +24,7 @@ int scoreOfParentheses(string str){
 
 
 // Approach 2: Using Stack
+
 int scoreOfParentheses(string str){
 	stack<int> stk;
 	int score = 0;
